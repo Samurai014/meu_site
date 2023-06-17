@@ -1,0 +1,33 @@
+body{
+    background-color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+table, tr, td, th{
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: collapse;
+    /*border-color: navy;*/
+    border-color: navy;
+}
+
+div.tabela{
+    text-align: center;
+    background-color: coral;
+}
+
+div#sobre{
+    background-color: rgb(50,96,26);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
+
+h2{
+    text-align: center;
+    margin: auto;
+    font-size: 0.75rem;
+}
+table{
+    margin:auto;
+}
